@@ -5,6 +5,7 @@
 1. Clone the Repository
 2. Install Pipenv
 3. Run `pipenv install`
+4. Run `python manage.py migrate`
 
 
 ### Usage
